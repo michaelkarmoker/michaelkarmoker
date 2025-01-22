@@ -14,7 +14,7 @@ Skills: Flutter| Android | IOS | Dart | Java | Python
 - 🔭 I’m currently working on SK Soft Solutions Inc. 
 - 🌱 I’m currently learning Data Science 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkarmoker&show_icons=true&locale=en&layout=compact" alt="michaelkarmoker" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkarmoker&theme=dark&show_icons=true&locale=en&layout=compact" alt="michaelkarmoker" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelkarmoker&show_icons=true&locale=en" alt="michaelkarmoker" /></p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/michaelkarmoker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/michael-karmoker-7b909a114//)  
