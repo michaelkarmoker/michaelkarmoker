@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Michael Karmoker</h1>
 #### Flutter Developer (Android / iOS)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelkarmoker&label=Profile%20views&color=0e75b6&style=flat" alt="michaelkarmoker" /> </p>
 
 Mobile Application Developer with 4+ years of experience in designing, developing, and deploying innovative mobile apps for iOS and Android using Flutter and Android Native. Skilled in integrating backend services, optimizing performance, and implementing security measures. Proficient in Java, Dart, and state management tools like GetX, Provider, and Bloc. A strong problem solver, adept at delivering scalable, user-friendly solutions and collaborating with teams. Passionate about continuous learning and staying current with emerging technologies.
