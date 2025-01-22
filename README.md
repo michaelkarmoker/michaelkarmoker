@@ -13,6 +13,8 @@ Mobile Application Developer with 4+ years of experience in designing, developin
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelkarmoker" alt="michaelkarmoker" /></a> </p>
 
+
+
 <h3 align="left">Languages:</h3>
 <p align="left">
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
@@ -41,9 +43,8 @@ Mobile Application Developer with 4+ years of experience in designing, developin
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/michaelkarmoker)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/michaelkarmoker)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/michaelkarmoker)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-karmoker-7b909a114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-karmoker-7b909a114/" height="30" width="40" /></a>
+</p>
 
