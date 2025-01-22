@@ -11,6 +11,8 @@ Mobile Application Developer with 4+ years of experience in designing, developin
 - 🔭 I’m currently working on SK Soft Solutions Inc. 
 - 🌱 I’m currently learning Data Science 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelkarmoker" alt="michaelkarmoker" /></a> </p>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
