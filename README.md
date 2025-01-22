@@ -21,7 +21,7 @@ Mobile Application Developer with 4+ years of experience in designing, developin
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkarmoker&theme=gruvbox&show_icons=true&locale=en" alt="michaelkarmoker" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelkarmoker&theme=gruvbox&show_icons=true&locale=en" alt="michaelkarmoker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelkarmoker&" alt="michaelkarmoker" /></p>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
